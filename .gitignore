@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/games.csv
+data/pffScoutingData.csv
+data/players.csv
+data/plays.csv
+data/week1.csv
+data/week2.csv
+data/week3.csv
+data/week4.csv
+data/week5.csv
+data/week6.csv
+data/week7.csv
+data/week8.csv
